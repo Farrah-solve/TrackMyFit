@@ -1,0 +1,19 @@
+{
+  "name": "trackmyfit",
+  "version": "1.0.0",
+  "description": "workout tracker",
+  "main": "seed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farrah-solve/TrackMyFit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farrah-solve/TrackMyFit/issues"
+  },
+  "homepage": "https://github.com/Farrah-solve/TrackMyFit#readme"
+}
